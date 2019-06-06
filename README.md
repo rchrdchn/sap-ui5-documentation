@@ -17,12 +17,12 @@
 
 ## Actions
 
-| Control        | View           | Link  | API
-| ------------- |:-------------:| -----:| -----:
+| Control        | View           | Link    | API
+| ------------- |:-------------:|:-----:|:-----:
 | Action Sheet | ![action-sheet] | [Sample Link](https://sapui5.hana.ondemand.com/1.64.0/#/entity/sap.m.ActionSheet/sample/sap.m.sample.ActionSheet) | [API Link](https://sapui5.hana.ondemand.com/1.64.0/#/api/sap.m.ActionSheet)
 | Responsive Toolbar | ![responsive-toolbar] | [Sample Link](https://sapui5.hana.ondemand.com/1.64.0/#/entity/sap.m.OverflowToolbarToggleButton/sample/sap.m.sample.OverflowToolbarFooter) | [API Link](https://sapui5.hana.ondemand.com/1.64.0/#/api/sap.m.OverflowToolbarToggleButton)
 | Links | ![links] | [Sample Link](https://sapui5.hana.ondemand.com/1.64.0/#/entity/sap.m.Link/sample/sap.m.sample.Link) | [API Link](https://sapui5.hana.ondemand.com/1.64.0/#/api/sap.m.Link)
-| Toggle Button | ![toggle-button] | [Sample Link](https://sapui5.hana.ondemand.com/1.64.0/#/entity/sap.m.ToggleButton) | [API Link](https://sapui5.hana.ondemand.com/1.64.0/#/api/sap.m.ToggleButton)
+| Toggle Button | ![toggle-button] ![toggle-button-icon] ![toggle-button-icons] | [Sample Link](https://sapui5.hana.ondemand.com/1.64.0/#/entity/sap.m.ToggleButton) | [API Link](https://sapui5.hana.ondemand.com/1.64.0/#/api/sap.m.ToggleButton)
 | Menu | ![menu] | [Sample Link](https://sapui5.hana.ondemand.com/1.64.0/#/entity/sap.ui.unified.Menu) | [API Link](https://sapui5.hana.ondemand.com/1.64.0/#/api/sap.ui.unified.Menu)
 | Button | ![buttons] ![button-default] ![button-accept] ![button-reject] ![button-disabled] | [Sample Link](https://sapui5.hana.ondemand.com/1.64.0/#/entity/sap.m.Button/sample/sap.m.sample.Button) | [API Link](https://sapui5.hana.ondemand.com/1.64.0/#/api/sap.m.Button)
 | Pull to Refresh | ![pull-to-refresh] | [Sample Link](https://sapui5.hana.ondemand.com/1.64.0/#/entity/sap.m.PullToRefresh) | [API Link](https://sapui5.hana.ondemand.com/1.64.0/#/api/sap.m.PullToRefresh)
@@ -34,6 +34,7 @@
 [responsive-toolbar]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/actions/responsive-toolbar.png "Responsive Toolbar"
 [links]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/actions/links.png "Links"
 [toggle-button]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/actions/toggle-button.png "Toggle Button"
+[toggle-button-icon]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/actions/toggle-button-icon.png "Toggle Button Icon"
 [toggle-button-icons]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/actions/toggle-button-icons.png "Toggle Button Icons"
 [menu]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/actions/menu.png "Menu"
 [buttons]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/actions/buttons.png "Buttons"

@@ -1,6 +1,6 @@
 # SAP UI5 Visual Documentation
 
-##### **Author**: *[Richard Chan](https://www.richardchan.me/now)* - **Status**: *In Progress*
+#### **Author**: *[Richard Chan](https://www.richardchan.me/now)* - **Status**: *In Progress*
 ___
 
 **Table of Contents**

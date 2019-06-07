@@ -1,21 +1,26 @@
 # SAP UI5 Visual Documentation
 
-## Controls
-### [Action](https://github.com/rchrdchn/sap-ui5-documentation#actions)
-### [Charts]()
-### [Viz Frame]()
-### [Container]()
-### [Display]()
-### [Object]()
-### [Responsive Object Header]()
-### [Layout]()
-### [List]()
-### [Table]()
-### [Popup Dialog]()
-### [Tile]()
-### [User Input]()
+**Author**: *[Richard Chan](https://www.richardchan.me/now)*
+**Status**: *In Progress*
 
-## Actions
+**Table of Contents**
+
+##### Controls
+[Action](https://github.com/rchrdchn/sap-ui5-documentation#actions)
+[Charts]()
+[Viz Frame]()
+[Container]()
+[Display]()
+[Object]()
+[Responsive Object Header]()
+[Layout]()
+[List]()
+[Table]()
+[Popup Dialog]()
+[Tile]()
+[User Input]()
+
+### Actions
 
 | Control        | View           | Link    | API
 | ------------- |:-------------:|:-----:|:-----:
@@ -29,6 +34,8 @@
 | Upload Collection | ![upload-collection] | [Sample Link](https://sapui5.hana.ondemand.com/1.64.0/#/entity/sap.m.UploadCollection/sample/sap.m.sample.UploadCollection) | [API Link](https://sapui5.hana.ondemand.com/1.64.0/#/api/sap.m.UploadCollection)
 | URL Helper | ![url-helper] | [Sample Link](https://sapui5.hana.ondemand.com/1.64.0/#/entity/sap.m.URLHelper/sample/sap.m.sample.UrlHelper) | [API Link](https://sapui5.hana.ondemand.com/1.64.0/#/api/sap.m.URLHelper)
 | Variant Management | ![variant-management] | [Sample Link](https://sapui5.hana.ondemand.com/1.64.0/#/entity/sap.ui.comp.tutorial.smartControls/sample/sap.ui.comp.tutorial.smartControls.07) | 
+
+[//]: # (Action - image links)
 
 [action-sheet]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/actions/action-sheet.png "Action Sheet"
 [responsive-toolbar]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/actions/responsive-toolbar.png "Responsive Toolbar"
@@ -47,4 +54,23 @@
 [url-helper]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/actions/url-helper.png "URL Helper"
 [variant-management]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/actions/variant-management.png "Variant Management"
 
-#### Author: *[Richard Chan](https://www.richardchan.me/now)*
+### Charts
+
+| Control        | View           | Link    | API
+| ------------- |:-------------:|:-----:|:-----:
+| Bullet Micro Chart | ![bullet-micro-chart] | [Sample Link](https://sapui5.hana.ondemand.com/1.64.0/#/entity/sap.ui.comp.smartmicrochart.SmartBulletMicroChart/sample/sap.ui.comp.sample.smartmicrochart.SmartBulletMicroChart.exampleMinimize) | [API Link](https://sapui5.hana.ondemand.com/1.64.0/#/api/sap.ui.comp.smartmicrochart.SmartBulletMicroChart)
+| Column Micro Chart | ![column-micro-chart-simple] ![column-micro-chart] | [Sample Link](https://sapui5.hana.ondemand.com/1.64.0/#/entity/sap.suite.ui.microchart.ColumnMicroChart/sample/sap.suite.ui.microchart.sample.ColumnMicroChartResponsive) | [API Link](https://sapui5.hana.ondemand.com/1.64.0/#/api/sap.suite.ui.microchart.ColumnMicroChart)
+| Comparison Micro Chart | ![comparison-micro-chart-1] ![comparison-micro-chart-2] | [Sample Link](https://sapui5.hana.ondemand.com/1.64.0/#/entity/sap.suite.ui.microchart.ComparisonMicroChart/sample/sap.suite.ui.microchart.sample.ComparisonMicroChartResponsive) | [API Link](https://sapui5.hana.ondemand.com/1.64.0/#/api/sap.suite.ui.microchart.ComparisonMicroChart)
+| Micro Area Chart | ![micro-area-chart] | [Sample Link](https://sapui5.hana.ondemand.com/1.64.0/#/entity/sap.suite.ui.microchart.AreaMicroChart/sample/sap.suite.ui.microchart.sample.AreaMicroChart) | [API Link](https://sapui5.hana.ondemand.com/1.64.0/#/api/sap.suite.ui.microchart.AreaMicroChart)
+| Numeric with Icon | ![numeric-with-icon] | [Sample Link](https://sapui5.hana.ondemand.com/1.64.0/#/entity/sap.m.NumericContent/sample/sap.m.sample.NumericContentIcon) | [API Link](https://sapui5.hana.ondemand.com/1.64.0/#/api/sap.m.NumericContent)
+
+[//]: # (Charts - image links)
+
+[bullet-micro-chart]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/charts/bullet-micro-chart.png "Bullet Micro Chart"
+[column-micro-chart-simple]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/charts/column-micro-chart-simple.png "Column Micro Chart Simple"
+[column-micro-chart]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/charts/column-micro-chart.png "Column Micro Chart"
+[comparison-micro-chart-1]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/charts/comparison-micro-chart-1.png "Comparison Micro Chart"
+[comparison-micro-chart-2]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/charts/comparison-micro-chart-2.png "Comparison Micro Chart"
+[micro-area-chart]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/charts/micro-area-chart.png "Micro Area Chart"
+[numeric-with-icon]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/charts/numeric-with-icon.png "Numeric with Icon"
+

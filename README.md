@@ -1,26 +1,27 @@
 # SAP UI5 Visual Documentation
 
-**Author**: *[Richard Chan](https://www.richardchan.me/now)*
-**Status**: *In Progress*
+###### **Author**: *[Richard Chan](https://www.richardchan.me/now)*
+###### **Status**: *In Progress*
+
 
 **Table of Contents**
 
 ##### Controls
-[Action](https://github.com/rchrdchn/sap-ui5-documentation#actions)
-[Charts]()
-[Viz Frame]()
-[Container]()
-[Display]()
-[Object]()
-[Responsive Object Header]()
-[Layout]()
-[List]()
-[Table]()
-[Popup Dialog]()
-[Tile]()
-[User Input]()
+- [Action](https://github.com/rchrdchn/sap-ui5-documentation#actions)
+- [Charts](https://github.com/rchrdchn/sap-ui5-documentation#charts)
+- [Viz Frame]()
+- [Container]()
+- [Display]()
+- [Object]()
+- [Responsive Object Header]()
+- [Layout]()
+- [List]()
+- [Table]()
+- [Popup Dialog]()
+- [Tile]()
+- [User Input]()
 
-### Actions
+## Actions
 
 | Control        | View           | Link    | API
 | ------------- |:-------------:|:-----:|:-----:
@@ -54,7 +55,7 @@
 [url-helper]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/actions/url-helper.png "URL Helper"
 [variant-management]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/actions/variant-management.png "Variant Management"
 
-### Charts
+## Charts
 
 | Control        | View           | Link    | API
 | ------------- |:-------------:|:-----:|:-----:

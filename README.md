@@ -130,7 +130,7 @@ ___
 [carousel]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/container/carousel.png "Carousel"
 [chart-container]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/container/chart-container.png "Chart Container"
 [slide-tile]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/container/slide-tile.png "Slide Tile"
-[nav-container]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/container/navigation-container-animated.png "Nav Container"
+[nav-container]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/container/nav-container.png "Nav Container"
 [filter-bar]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/container/filter-bar.png "Filter Bar"
 [header-container]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/container/header-container.png "Header Container"
 [icon-tab-bar-with-filter-application]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/container/icon-tab-bar-with-filter-application.png "Icon Tab Bar with Filter Application"

@@ -11,7 +11,7 @@ ___
 - [Viz Frame](https://github.com/rchrdchn/sap-ui5-documentation#viz-frames)
 - [Container](https://github.com/rchrdchn/sap-ui5-documentation#containers)
 - [Display](https://github.com/rchrdchn/sap-ui5-documentation#displays)
-- [Object](https://github.com/rchrdchn/sap-ui5-documentation#objects)
+- [Object Header](https://github.com/rchrdchn/sap-ui5-documentation#object-header)
 - [Responsive Object Header]()
 - [Layout]()
 - [List]()
@@ -185,7 +185,7 @@ ___
 [implicit-picture-viewer]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/display/implicit-picture-viewer.png "Implicit Controls - Picture Viewer"
 [implicit-text-maxlines]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/display/implicit-text-maxlines.png "Implicit Controls - Text with Maxlines and no wrapping"
 
-## Objects
+## Object Header
 
 | Control        | View           | Link    | API
 | ------------- |:-------------:|:-----:|:-----:
@@ -198,7 +198,7 @@ ___
 | Object Header Container | ![object-header-container] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.ui.core.Control/sample/sap.ui.core.sample.ControlBusyIndicator) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.ObjectHeader)
 | Object Header Responsive | ![object-header-responsive] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.ObjectHeader/sample/sap.m.sample.ObjectHeaderResponsiveI) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.ObjectHeader)
 
-[//]: # (Objects - image links)
+[//]: # (Object Header - image links)
 
 [object-header-active-attributes]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/object/object-header-active-attributes.png "Object Header Active Attributes"
 [object-header-condensed]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/object/object-header-condensed.png "Object Header Condensed"

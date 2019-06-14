@@ -195,7 +195,6 @@ ___
 | Object Header with Image | ![object-header-with-image] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.ObjectHeader/sample/sap.m.sample.ObjectHeaderImage) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.ObjectHeader)
 | Object Header with Active Title | ![object-header-with-active-title] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.ObjectHeader/sample/sap.m.sample.ObjectHeaderTitleActive) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.ObjectHeader)
 | Object Header with Select Title | ![object-header-with-select-title] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.ObjectHeader/sample/sap.m.sample.ObjectHeaderTitleSel) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.ObjectHeader)
-| Object Header Container | ![object-header-container] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.ui.core.Control/sample/sap.ui.core.sample.ControlBusyIndicator) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.ObjectHeader)
 | Object Header Responsive | ![object-header-responsive] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.ObjectHeader/sample/sap.m.sample.ObjectHeaderResponsiveI) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.ObjectHeader)
 
 [//]: # (Object Header - image links)
@@ -206,7 +205,6 @@ ___
 [object-header-with-image]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/object/object-header-with-image.png "Object Header with Image"
 [object-header-with-active-title]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/object/object-header-with-active-title.png "Object Header with Active Title"
 [object-header-with-select-title]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/object/object-header-with-select-title.png "Object Header with Select Title"
-[object-header-container]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/object/object-header-container.png "Object Header Container"
 [object-header-responsive]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/object/object-header-responsive.png "Object Header Responsive"
 
 

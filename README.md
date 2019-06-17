@@ -232,7 +232,7 @@ ___
 [fix-flex-fix-container]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/layout/fix-flex-fix-container.png "Fix Flex - Fix Container"
 [flex-box-alignment]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/layout/flex-box-alignment.png "Flex Box - Alignment"
 [flex-box-equal-height-cols]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/layout/flex-box-equal-height-cols.png "Flex Box - Equal Height Cols"
-[flex-box-opposing-alignment]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/layout/flex-box-opposing-alignmentpng "Flex Box - Opposing Alignment"
+[flex-box-opposing-alignment]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/layout/flex-box-opposing-alignment.png "Flex Box - Opposing Alignment"
 [flex-box-navigation]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/layout/flex-box-navigation.png "Flex Box - Navigation"
 [flex-box-nested]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/layout/flex-box-nested.png "Flex Box - Nested"
 [horizontal-layout]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/layout/horizontal-layout.png "Horizontal Layout"

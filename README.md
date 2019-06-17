@@ -11,9 +11,9 @@ ___
 - [Viz Frame](https://github.com/rchrdchn/sap-ui5-documentation#viz-frames)
 - [Container](https://github.com/rchrdchn/sap-ui5-documentation#containers)
 - [Display](https://github.com/rchrdchn/sap-ui5-documentation#displays)
-- [Object Header](https://github.com/rchrdchn/sap-ui5-documentation#object-header)
-- [Responsive Object Header]()
-- [Layout]()
+- [Object Header](https://github.com/rchrdchn/sap-ui5-documentation#object-headers)
+<!-- - [Responsive Object Header]() -->
+- [Layout](https://github.com/rchrdchn/sap-ui5-documentation#layouts)
 - [List]()
 - [Table]()
 - [Popup Dialog]()
@@ -185,7 +185,7 @@ ___
 [implicit-picture-viewer]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/display/implicit-picture-viewer.png "Implicit Controls - Picture Viewer"
 [implicit-text-maxlines]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/display/implicit-text-maxlines.png "Implicit Controls - Text with Maxlines and no wrapping"
 
-## Object Header
+## Object Headers
 
 | Control        | View           | Link    | API
 | ------------- |:-------------:|:-----:|:-----:
@@ -206,6 +206,40 @@ ___
 [object-header-with-active-title]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/object/object-header-with-active-title.png "Object Header with Active Title"
 [object-header-with-select-title]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/object/object-header-with-select-title.png "Object Header with Select Title"
 [object-header-responsive]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/object/object-header-responsive.png "Object Header Responsive"
+
+## Layouts
+
+| Control        | View           | Link    | API
+| ------------- |:-------------:|:-----:|:-----:
+| Fix Flex - Vertical | ![fix-flex-vertical] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.ui.layout.FixFlex/sample/sap.ui.layout.sample.FixFlexVertical) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.ui.layout.FixFlex)
+| Fix Flex - Horizontal | ![fix-flex-horizontal] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.ui.layout.FixFlex/sample/sap.ui.layout.sample.FixFlexHorizontal) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.ui.layout.FixFlex)
+| Fix Flex - Fix Container | ![fix-flex-fix-container] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.ui.layout.FixFlex/sample/sap.ui.layout.sample.FixFlexFixedSize) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.ui.layout.FixFlex)
+| Flex Box - Alignment | ![flex-box-alignment] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.FlexBox/sample/sap.m.sample.FlexBoxBasicAlignment) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.FlexBox)
+| Flex Box - Equal Height Cols | ![flex-box-equal-height-cols] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.FlexBox/sample/sap.m.sample.FlexBoxCols) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.FlexBox)
+| Flex Box - Opposing Alignment | ![flex-box-opposing-alignment] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.FlexBox/sample/sap.m.sample.FlexBoxOpposingAlignment) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.FlexBox)
+| Flex Box - Navigation | ![flex-box-navigation] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.FlexBox/sample/sap.m.sample.FlexBoxNav) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.FlexBox)
+| Flex Box - Nested | ![flex-box-nested] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.FlexBox/sample/sap.m.sample.FlexBoxNested) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.FlexBox)
+| Horizontal Layout | ![horizontal-layout] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.ui.layout.HorizontalLayout/sample/sap.ui.layout.sample.HorizontalLayout) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.ui.layout.HorizontalLayout)
+| Vertical Layout | ![vertical-layout] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.ui.layout.VerticalLayout/sample/sap.ui.layout.sample.VerticalLayout) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.ui.layout.VerticalLayout)
+| Splitter Control with Resizable Areas | ![splitter-control-with-resizable] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.ui.layout.Splitter/sample/sap.ui.layout.sample.Splitter) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.ui.layout.Splitter)
+| Splitter Control with Resizable Areas - Nested | ![splitter-control-with-resizable-nested] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.ObjectHeader/sample/sap.m.sample.ObjectHeaderTitleSel) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.ui.layout.Splitter)
+| Grid - Info Layout | ![grid-info-layout] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.ui.layout.Grid/sample/sap.ui.layout.sample.GridInfo) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.ui.layout.Grid)
+
+[//]: # (Layouts - image links)
+
+[fix-flex-vertical]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/layout/fix-flex-vertical.png "Fix Flex - Vertical"
+[fix-flex-horizontal]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/layout/fix-flex-horizontal.png "Fix Flex - Horizontal"
+[fix-flex-fix-container]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/layout/fix-flex-fix-container.png "Fix Flex - Fix Container"
+[flex-box-alignment]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/layout/flex-box-alignment.png "Flex Box - Alignment"
+[flex-box-equal-height-cols]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/layout/flex-box-equal-height-cols.png "Flex Box - Equal Height Cols"
+[flex-box-opposing-alignment]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/layout/flex-box-opposing-alignmentpng "Flex Box - Opposing Alignment"
+[flex-box-navigation]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/layout/flex-box-navigation.png "Flex Box - Navigation"
+[flex-box-nested]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/layout/flex-box-nested.png "Flex Box - Nested"
+[horizontal-layout]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/layout/horizontal-layout.png "Horizontal Layout"
+[vertical-layout]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/layout/vertical-layout.png "Vertical Layout"
+[splitter-control-with-resizable]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/layout/splitter-control-with-resizable.png "Splitter Control - Resizable Areas"
+[splitter-control-with-resizable-nested]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/layout/splitter-control-with-resizable-nested.png "Splitter Control - Resizable Areas Nested"
+[grid-info-layout]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/layout/grid-info-layout.png "Grid - Info Layout"
 
 
 [//]: # (Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

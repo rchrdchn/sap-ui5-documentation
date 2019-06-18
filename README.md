@@ -266,7 +266,7 @@ ___
 [list-with-more-button]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/list/list-with-more-button.png "List with More button"
 [list-with-groups]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/list/list-with-groups.png "List (Group) with Deletion"
 [list-with-item-type-filter]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/list/list-with-item-type-filter.png "List with Item Type Filter"
-[object-header-with-image]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/list/object-header-with-image.png "List with Item Selection and Search"
+[list-with-item-selection-and-search]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/list/list-with-item-selection-and-search.png "List with Item Selection and Search"
 [list-with-item-checkbox]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/list/list-with-item-checkbox.png "List with Item Checkbox"
 [list-with-header-and-info-toolbar]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/list/list-with-header-and-info-toolbar.png "List with Header and Info Toolbar"
 [list-with-unread-indication]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/list/list-with-unread-indication.png "List with Unread Indication"

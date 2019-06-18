@@ -12,13 +12,13 @@ ___
 - [Container](https://github.com/rchrdchn/sap-ui5-documentation#containers)
 - [Display](https://github.com/rchrdchn/sap-ui5-documentation#displays)
 - [Object Header](https://github.com/rchrdchn/sap-ui5-documentation#object-headers)
-<!-- - [Responsive Object Header]() -->
 - [Layout](https://github.com/rchrdchn/sap-ui5-documentation#layouts)
-- [List]()
+- [List](https://github.com/rchrdchn/sap-ui5-documentation#lists)
 - [Table]()
 - [Popup Dialog]()
 - [Tile]()
 - [User Input]()
+- [Responsive Object Header]()
 
 ## Actions
 
@@ -240,6 +240,36 @@ ___
 [splitter-control-with-resizable]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/layout/splitter-control-with-resizable.png "Splitter Control - Resizable Areas"
 [splitter-control-with-resizable-nested]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/layout/splitter-control-with-resizable-nested.png "Splitter Control - Resizable Areas Nested"
 [grid-info-layout]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/layout/grid-info-layout.png "Grid - Info Layout"
+
+## Lists
+
+| Control        | View           | Link    | API
+| ------------- |:-------------:|:-----:|:-----:
+| List with **Deletion | ![list-with-deletion] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.List/sample/sap.m.sample.ListDeletion) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.List)
+| List with **Counter indication** | ![list-with-counter-indication] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.List/sample/sap.m.sample.ListCounter) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.List)
+| List with **Footer** | ![list-with-footer] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.List/sample/sap.m.sample.ListFooter) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.List)
+| List with **No Data** | ![list-with-no-data] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.List/sample/sap.m.sample.ListNoData) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.List)
+| List with **More button** | ![list-with-more-button] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.List/sample/sap.m.sample.ListGrowing) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.List)
+| List with **Groups** | ![list-with-groups] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.List/sample/sap.m.sample.ListGrouping) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.List)
+| List with **Item Type Filter** | ![list-with-item-type-filter] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.List/sample/sap.m.sample.ListItemTypes) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.List)
+| List with **Item Selection and Search** | ![list-with-item-selection-and-search] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.List/sample/sap.m.sample.ListSelectionSearch) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.List)
+| List with **Item Checkbox** | ![list-with-item-checkbox] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.List/sample/sap.m.sample.ListSelection) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.List)
+| List with **Header and Info Toolbar** | ![list-with-header-and-info-toolbar] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.List/sample/sap.m.sample.ListToolbar) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.List)
+| List with **Unread Indication** | ![list-with-unread-indication] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.List/sample/sap.m.sample.ListUnread) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.List)
+
+[//]: # (Lists - image links)
+
+[list-with-deletion]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/list/list-with-deletion.png "List with Deletion"
+[list-with-counter-indication]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/list/list-with-counter-indication.png "List with Counter indication"
+[list-with-footer]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/list/list-with-footer.png "List with Footer"
+[list-with-no-data]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/list/list-with-no-data.png "List with No Data"
+[list-with-more-button]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/list/list-with-more-button.png "List with More button"
+[list-with-groups]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/list/list-with-groups.png "List (Group) with Deletion"
+[list-with-item-type-filter]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/list/list-with-item-type-filter.png "List with Item Type Filter"
+[object-header-with-image]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/list/object-header-with-image.png "List with Item Selection and Search"
+[list-with-item-checkbox]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/list/list-with-item-checkbox.png "List with Item Checkbox"
+[list-with-header-and-info-toolbar]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/list/list-with-header-and-info-toolbar.png "List with Header and Info Toolbar"
+[list-with-unread-indication]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/list/list-with-unread-indication.png "List with Unread Indication"
 
 
 [//]: # (Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

@@ -14,7 +14,7 @@ ___
 - [Object Header](https://github.com/rchrdchn/sap-ui5-documentation#object-headers)
 - [Layout](https://github.com/rchrdchn/sap-ui5-documentation#layouts)
 - [List](https://github.com/rchrdchn/sap-ui5-documentation#lists)
-- [Table]()
+- [Table](https://github.com/rchrdchn/sap-ui5-documentation#tables)
 - [Popup Dialog]()
 - [Tile]()
 - [User Input]()

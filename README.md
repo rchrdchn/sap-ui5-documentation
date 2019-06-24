@@ -16,7 +16,7 @@ ___
 - [List](https://github.com/rchrdchn/sap-ui5-documentation#lists)
 - [Table](https://github.com/rchrdchn/sap-ui5-documentation#tables)
 - [Popup Dialog](https://github.com/rchrdchn/sap-ui5-documentation#popup-dialogs)
-- [Tile]()
+- [Tile](https://github.com/rchrdchn/sap-ui5-documentation#tiles)
 - [User Input]()
 - [Responsive Object Header]()
 
@@ -336,6 +336,32 @@ ___
 [submit-dialog-with-note]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/popup-dialogs/submit-dialog-with-note.png "Submit Dialog with note"
 [confirm-with-add-info]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/popup-dialogs/confirm-with-add-info.png "Confirm with add info"
 [table-select-dialog]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/popup-dialogs/table-select-dialog.png "Table Select Dialog"
+
+## Tiles
+
+| Control        | View           | Link    | API
+| ------------- |:-------------:|:-----:|:-----:
+| Launch Tiles | ![launch-tiles] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.GenericTile/sample/sap.m.sample.GenericTileAsLaunchTile) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.GenericTile)
+| Monitor Tile | ![monitor-tile] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.GenericTile/sample/sap.m.sample.GenericTileAsMonitorTile) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.GenericTile)
+| KPI Tile | ![kpi-tile] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.GenericTile/sample/sap.m.sample.GenericTileAsKPITile) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.GenericTile)
+| Feed and News Tile | ![feed-and-news-tile] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.GenericTile/sample/sap.m.sample.GenericTileAsFeedTile) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.GenericTile)
+| Slide Tile | ![slide-tile] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.GenericTile/sample/sap.m.sample.SlideTile) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.GenericTile)
+| Tile Modes and Scopes | ![tile-modes-and-scopes] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.GenericTile/sample/sap.m.sample.GenericTileLineMode) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.GenericTile)
+| Tile Statuses | ![tile-statuses] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.GenericTile/sample/sap.m.sample.GenericTileStates) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.GenericTile)
+| Tile Container | ![tile-container] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.TileContainer/sample/sap.m.sample.TileContainer) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.TileContainer)
+
+
+[//]: # (Tiles - image links)
+
+[launch-tiles]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/tile/launch-tiles.png "Launch Tiles"
+[monitor-tile]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/tile/monitor-tile.png "Monitor Tile"
+[kpi-tile]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/tile/kpi-tile.png "KPI Tile"
+[feed-and-news-tile]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/tile/feed-and-news-tile.png "Feed and News Tile"
+[slide-tile]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/tile/slide-tile.png "Slide Tile"
+[tile-modes-and-scopes]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/tile/slide-tile.png "Tile Modes and Scopes"
+[tile-statuses]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/tile/tile-statuses.png "Tile Statuses"
+[tile-container]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/tile/tile-container.png "Tile Container"
+
 
 
 [//]: # (Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

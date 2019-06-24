@@ -358,7 +358,7 @@ ___
 [kpi-tile]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/tile/kpi-tile.png "KPI Tile"
 [feed-and-news-tile]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/tile/feed-and-news-tile.png "Feed and News Tile"
 [slide-tile]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/tile/slide-tile.png "Slide Tile"
-[tile-modes-and-scopes]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/tile/slide-tile.png "Tile Modes and Scopes"
+[tile-modes-and-scopes]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/tile/tile-modes-and-scopes.png "Tile Modes and Scopes"
 [tile-statuses]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/tile/tile-statuses.png "Tile Statuses"
 [tile-container]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/tile/tile-container.png "Tile Container"
 

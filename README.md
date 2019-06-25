@@ -17,8 +17,7 @@ ___
 - [Table](https://github.com/rchrdchn/sap-ui5-documentation#tables)
 - [Popup Dialog](https://github.com/rchrdchn/sap-ui5-documentation#popup-dialogs)
 - [Tile](https://github.com/rchrdchn/sap-ui5-documentation#tiles)
-- [User Input]()
-- [Responsive Object Header]()
+- [User Input](https://github.com/rchrdchn/sap-ui5-documentation#user-inputs)
 
 ## Actions
 
@@ -363,5 +362,60 @@ ___
 [tile-container]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/tile/tile-container.png "Tile Container"
 
 
+## User Inputs
+
+| Control        | View           | Link    | API
+| ------------- |:-------------:|:-----:|:-----:
+| Single Day Selection | ![single-day-selection] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.ui.unified.Calendar/sample/sap.ui.unified.sample.CalendarSingleDaySelection) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.ui.unified.Calendar)
+| Single Interval Selection | ![single-interval-selection] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.ui.unified.Calendar/sample/sap.ui.unified.sample.CalendarSingleIntervalSelection) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.ui.unified.Calendar)
+| Multiple Day Selection | ![multiple-day-selection] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.ui.unified.Calendar/sample/sap.ui.unified.sample.CalendarMultipleDaySelection) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.ui.unified.Calendar)
+| Combobox - Single Select Dropdown | ![combobox-single-select] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.ComboBox/sample/sap.m.sample.ComboBox) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.ComboBox)
+| Combobox - Multi Select Dropdown | ![combobox-multi-select] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.MultiComboBox/sample/sap.m.sample.MultiComboBox) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.MultiComboBox)
+| Special Days with Legend | ![special-days-with-legend] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.ui.unified.Calendar/sample/sap.ui.unified.sample.CalendarSpecialDaysLegend) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.ui.unified.Calendar)
+| Date Picker | ![date-picker] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.DatePicker/sample/sap.m.sample.DatePicker) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.DatePicker)
+| Rating Indicator | ![rating-indicator] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.RatingIndicator/sample/sap.m.sample.RatingIndicator) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.RatingIndicator)
+| Segmented Button | ![segmented-button] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.SegmentedButton/sample/sap.m.sample.SegmentedButton) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.SegmentedButton)
+| Date Time Input | ![date-time-input] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.DateTimeInput/sample/sap.m.sample.DateTimeInput) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.DateTimeInput)
+| Multi Input | ![multi-input] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.MultiInput/sample/sap.m.sample.MultiInput) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.MultiInput)
+| Slider | ![slider-input] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.Slider/sample/sap.m.sample.Slider) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.Slider)
+| Switch | ![switch-input] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.Switch/sample/sap.m.sample.Switch) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.Switch)
+| Tokenizer | ![tokenizer-input] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.Tokenizer/sample/sap.m.sample.Tokenizer) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.Tokenizer)
+| Facet Filter | ![facet-filter-input] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.FacetFilter/sample/sap.m.sample.FacetFilterSimple) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.FacetFilter)
+| File | ![file-input] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.ui.unified.FileUploader/sample/sap.ui.unified.sample.FileUploaderBasic) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.ui.unified.FileUploader)
+| Autocomplete | ![autocomplete-input] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.ComboBox/sample/sap.m.sample.ComboBoxDefaultFiltering) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.ComboBox)
+| Multi-Input Validation | ![input-validation] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.MultiInput/sample/sap.m.sample.MultiInputValidators) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.MultiInput)
+| Input Types - text, email, phone, numbers, email | ![input-types] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.Input/sample/sap.m.sample.InputTypes) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.Input)
+| Input Dynamic Suggestions | ![input-dynamic-suggestions] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.Input/sample/sap.m.sample.InputSuggestionsDynamic) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.Input)
+| Input with Description | ![input-with-description] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.Input/sample/sap.m.sample.InputDescription) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.Input)
+| Radio button | ![radio-input] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.RadioButton/sample/sap.m.sample.RadioButton) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.RadioButton)
+| Select control | ![select-input] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.Select/sample/sap.m.sample.Select) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.Select)
+| Textarea | ![textarea-input] | [Sample Link](https://sapui5.hana.ondemand.com/#/entity/sap.m.TextArea/sample/sap.m.sample.TextArea) | [API Link](https://sapui5.hana.ondemand.com/#/api/sap.m.TextArea)
+
+[//]: # (User Inputs - image links)
+
+[single-day-selection]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/user-inputs/single-day-selection.png "Single Day Selection"
+[single-interval-selection]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/user-inputs/single-interval-selection.png "Single Interval Selection"
+[multiple-day-selection]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/user-inputs/multiple-day-selection.png "Multiple Day Selection"
+[combobox-single-select]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/user-inputs/combobox-single-select.png "Combobox - Single Select Dropdown"
+[combobox-multi-select]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/user-inputs/combobox-multi-select.png "Combobox - Multi Select Dropdown"
+[special-days-with-legend]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/user-inputs/special-days-with-legend.png "Special Days with Legend"
+[date-picker]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/user-inputs/date-picker.png "Date Picker"
+[rating-indicator]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/user-inputs/rating-indicator.png "Rating Indicator"
+[segmented-button]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/user-inputs/segmented-button.png "Segmented Button"
+[date-time-input]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/user-inputs/date-time-input.png "Date Time Input"
+[multi-input]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/user-inputs/multi-input.png "Multi Input"
+[slider-input]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/user-inputs/slider-input.png "Slider"
+[switch-input]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/user-inputs/switch-input.png "Switch"
+[tokenizer-input]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/user-inputs/tokenizer-input.png "Tokenizer"
+[facet-filter-input]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/user-inputs/facet-filter-input.png "Facet Filter"
+[file-input]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/user-inputs/file-input.png "File"
+[autocomplete-input]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/user-inputs/autocomplete-input.png "Autocomplete"
+[input-validation]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/user-inputs/input-validation.png "Multi-Input Validation"
+[input-types]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/user-inputs/input-types.png "Input Types - text, email, phone, numbers, email"
+[input-dynamic-suggestions]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/user-inputs/input-dynamic-suggestions.png "Input Dynamic Suggestions"
+[input-with-description]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/user-inputs/input-with-description.png "Input with Description"
+[radio-input]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/user-inputs/radio-input.png "Radio button"
+[select-input]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/user-inputs/select-input.png "Select control"
+[textarea-input]: https://github.com/rchrdchn/sap-ui5-documentation/blob/master/images/user-inputs/textarea-input.png "Textarea"
 
 [//]: # (Markdown Cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
